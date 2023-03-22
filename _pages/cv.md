@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.A. in Computational Social Science, Economics Concentration, University of Chicago, 2021
+* B.S. in Economics, Minor in Mathematics， University of Delaware, 2019
+* B.Econ. in International Economics and Trade, Southwestern University of Finance and Economics, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 - : Pre-doc Research Professional
+  * Booth School of Business, the University of Chicago
+  * Supervisor: Professor <a href='https://www.chicagobooth.edu/faculty/directory/s/bradley-shapiro'>Bradley Shapiro</a>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 : Teaching Assistant
+  * Booth School of Business, the University of Chicago
+  * Supervisor: Professor <a href='https://www.chicagobooth.edu/faculty/directory/h/richard-hornbeck'>Richard Hornbeck</a>
   
 Skills
 ======
@@ -53,7 +51,11 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Services
 ======
-* Currently signed in to 43 different slack teams
+* 
+  
+Hobbies
+======
+* Basketball, Tennis, Snowboarding, Hiking.
