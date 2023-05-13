@@ -5,7 +5,7 @@ permalink: /research/2021-08-18-cares-act-stimulus
 Excerpt: "Media Coverage: [UChicago Library News](https://www.lib.uchicago.edu/about/news/raising-the-profile-of-masters-theses/)"
 date: 2021-08-18
 venue: 'M.A. Thesis, University of Chicago'
-paperurl: 'CARES ACT Stimulus.pdf'
+paperurl: '/files/CARES_ACT_ Stimulus.pdf'
 citation: 'Yuan, Zhen. (2021). "Impact of Cares Act Stimulus on Consumption: Evidence from Zip Code Level Transactions." M.A. Thesis, University of Chicago. [http://knowledge.uchicago.edu/record/3161](http://knowledge.uchicago.edu/record/3161)'
 ---
 
