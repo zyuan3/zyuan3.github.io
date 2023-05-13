@@ -13,8 +13,8 @@ name                     : &name "Zhen Yuan"
 description              : &description "personal description"
 url                      : "http://yuan-zhen.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zyuan3/zyuan3.github.io"
-teaser                   :  "prersonal_website.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "https://yuan-zhen.com"
+teaser                   :  "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
