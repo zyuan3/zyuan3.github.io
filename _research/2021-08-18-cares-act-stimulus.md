@@ -9,6 +9,7 @@ paperurl: '/files/CARES_ACT_Stimulus.pdf'
 citation: 'Yuan, Zhen. (2021). "Impact of Cares Act Stimulus on Consumption: Evidence from Zip Code Level Transactions." M.A. Thesis, University of Chicago. [http://knowledge.uchicago.edu/record/3161](http://knowledge.uchicago.edu/record/3161)'
 ---
 
+## Impact of Cares Act Stimulus on Consumption: Evidence from Zip Code Level Transactions
 
 Media Coverage: [UChicago Library News](https://www.lib.uchicago.edu/about/news/raising-the-profile-of-masters-theses/)
 
