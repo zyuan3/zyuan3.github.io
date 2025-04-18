@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zhen Yuan, a pre-doc [research professional](https://www.chicagobooth.edu/faculty/research-staff/join-our-team) at the Booth School of Business.
+Hi, I'm Zhen Yuan, a quantitative marketing PhD student at the Booth School of Business.
 
 
-I study consumer behaviors and public health using industrial organization and quantitative marketing tools. You can find additional information about my work [here](/research/).
-
+I study industrial organization and quantitative marketing.
 
 In my free time, I enjoy both watching and playing various sports, and spending time with pets.

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Impact of Cares Act Stimulus on Consumption: Evidence from Zip Code Level Transactions"
 collection: research
 permalink: /research/2021-08-18-cares-act-stimulus
@@ -26,4 +26,4 @@ Short description of portfolio item number 1
 
 [Download paper here](/files/CARES_ACT_Stimulus.pdf)
 
-Recommended citation: Yuan, Zhen. (2021). "Impact of Cares Act Stimulus on Consumption: Evidence from Zip Code Level Transactions." M.A. Thesis, University of Chicago. [http://knowledge.uchicago.edu/record/3161](http://knowledge.uchicago.edu/record/3161)
+Recommended citation: Yuan, Zhen. (2021). "Impact of Cares Act Stimulus on Consumption: Evidence from Zip Code Level Transactions." M.A. Thesis, University of Chicago. [http://knowledge.uchicago.edu/record/3161](http://knowledge.uchicago.edu/record/3161) -->

@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[CV (2023.05)](/files/Personal_Website_CV.pdf){:target="_blank"}
+[CV](/files/Personal_Website_CV.pdf){:target="_blank"}
 
